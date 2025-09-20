@@ -1,4 +1,4 @@
-# RS-Bernaldo Exam - Docker Setup
+# RS-Bernaldo Exam
 
 ## Prerequisites
 
